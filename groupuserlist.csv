@@ -1,0 +1,84 @@
+GroupName;userID
+BNG-D-Admin-CA;PremM,AranhL
+BNG-D-Admin-RA;siddua-ext
+BNG-D-Attendance Tacker-CA;PremM,AranhL
+BNG-D-Attendance Tacker-RA;Everyone
+BNG-D-Coffee Audit-CA;jag-adm
+BNG-D-Execution-CA;govins1,rajkun,raos,raop
+BNG-D-Execution-RA;harihr
+BNG-D-Finance-CA;SATISA,AcharR,SuvarG,ShettT,RajB,Shettt
+BNG-D-HR-CA;aranhl,kongar
+BNG-D-coffee-CA;kotram,raon,satisa,shants,shettt,agrawa,chandv1,devard,guptaa3
+BNG-D-coffee-RA;menonm
+BNG-D-Coffee Quality-CA;agrawa,ashoks,banaks,chandv,chandv1,dambed,devard,kotram,menonm,raon,shants,shihaa
+BNG-D-India Coffee Execution-CA;agrawa,ashoks,chandv1,dambed,devard,guptaa3,kotram,menonm,pradhc
+BNG-D-India Coffee Execution-RA;shihaa
+BNG-D-Kushalnagar Coffee Project-CA;menonm
+BNG-D-MGMT-CA;menonm
+BNG-D-Research-CA;reddym,vonpef
+BNG-D-Research-RA
+BNG-D-Agri Farming Project-CA;Srirag,Narays
+BNG-D-Agri Farming Project-RA
+BNG-D-Budget-CA;Srirag
+BNG-D-Budget-rA
+BNG-D-CAPE INDIA-CA;Mahanp,ramarv,thamir
+BNG-D-CAPE INDIA-RA
+BNG-D-Coffee Research-CA;chengv,chiapc,chitts1,mastec,muthak,selvaa,sethis,tohsh
+BNG-D-Coffee Research-RA
+BNG-D-Dairy-CA;Narays,singhv,Srirag
+BNG-D-Dairy-RA
+BNG-D-GIS & RS Data-CA;mahanp,reddym,thamir
+BNG-D-GIS & RS Data-RA
+BNG-D-Global Cotton-CA;reddym1,shindd,Srirag
+BNG-D-Global Cotton-RA;gavirg
+BNG-D-Asia-CA;gavirg,shindd,Srirag
+BNG-D-Asia-RA;bahallr
+BNG-D-Australia-CA;reddym1,reddym,shindd,srirag,vonpef
+BNG-D-Australia-RA;gavirg
+BNG-D-Cambodia and Laos-CA;reddym,reddym1,shindd,Srirag,vonpef
+BNG-D-Cambodia and Laos-RAl;gavirg
+BNG-D-Europe-CA;reddym,reddym1,Srirag,vonpef
+BNG-D-Europe-RA;gavirg
+BNG-D-Global Rainfall Data-CA;krishp,mastec,reddym,Srirag,vonpef
+BNG-D-Global Rainfall Data-RA;gatehj
+BNG-D-India_weather-CA;Bagem,gavirg,gopalr,mahanp,Narays,pradhr,reddym,shindd,singhv,Srirag
+BNG-D-India_weather-RA;getehj,kumarr
+BNG-D-World Coffee Rainfall-CA;boislb,chengv,chitts1,krishp,kumard1,mahanp,mastec,ramarv,reddym,selvaa,sethis,Srirag,thamir,vonpef
+BNG-D-World Coffee Rainfall-RA;chiapc,gatehj
+BNG-D-World Cotton Rainfal-CA;gopalr,krishp,mastec,Narays,reddym,reddym1,shindd,Srirag,vonpef
+BNG-D-World Cotton Rainfal-RA;davidc,gatehj
+BNG-D-World Sugarcane Rainfall-CA;ashwat,boislb,narays,gopalr,krishp,mastec,reddym,Srirag
+BNG-D-World Sugarcane Rainfall-RA;puglir,getehj
+BNG-D-World Weather Reports-CA;chengv,krishp,mastec,reddym,Srirag,vonpef
+BNG-D-World Weather Reports-RA;getehj
+BNG-D-Global Sugar-CA;ashwat,mohanp1,narays,reddym,srirag
+BNG-D-Global Sugar-RA;puglir,boislb
+BNG-D-Sugar Intern-CA;ashwat,mohanp1,narays,reddym,srirag,vonpef
+BNG-D-Sugar Intern-RA;boislb,puglir
+BNG-D-India Monsoon-CA;gopalr,reddym,singhv,srirag,vonpef
+BNG-D-India Monsoon-RA
+BNG-D-INDIA RSH-CA;Narays,puglir,reddym,singhv,Srirag
+BNG-D-INDIA RSH-RA
+BNG-D-LD Foundation-CA;reddym,vonpef,Srirag
+BNG-D-LD Foundation-RA
+BNG-D-LTPM-CA;chalam,chengv,krishp,kumard1,reddym,vonpef
+BNG-D-LTPM-RA
+BNG-D-RSGIS-CA;mahanp,ramarv,reddym,thamir,vonpef
+BNG-D-RSGIS-RA
+BNG-D-RS-GIS Training-CA;gopalr,mahanp,muthak,Narays,ramarv,reddym,sethis,Srirag,thamir,vonpef
+BNG-D-RS-GIS Training-RA
+BNG-D-Adv Estimates-CA;gopalr,reddym,reddym1,singhv,Srirag
+BNG-D-Adv Estimates-RA
+BNG-D-AREA-CA;baghem,gavirg,gopalr,joshib,reddym,singhv,Srirag
+BNG-D-AREA-RA;bhallr
+BNG-D-Cotton-CA;baghem,bhallr,gavirg,joshib,reddym,reddym1,shindd,Srirag
+BNG-D-Cotton-RA;davidc
+BNG-D-Cross Platform-CA;reddym,reddym1,singhv,Srirag
+BNG-D-Cross Platform-RA
+BNG-D-GPS points-CA;;gopalr,reddym,reddym1,sarkam,shindd,singhv,Srirag
+BNG-D-GPS points-RA
+BNG-D-Grain-CA;gavirg,reddym,reddym1,singhv,Srirag
+BNG-D-Grain-RA;kumarr,aroras;ashwat,baghem,gavirg,gopalr,joshib,narays,reddym,shindd,singhv,srirag
+BNG-D-Grass Margins-CA;
+BNG-D-Grass Margins-RA
+BNG-D-Finance-RA
